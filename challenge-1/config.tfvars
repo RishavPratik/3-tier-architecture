@@ -1,0 +1,1 @@
+location-rg = "South India"
